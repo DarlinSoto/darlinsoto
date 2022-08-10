@@ -6,6 +6,11 @@ I'm **Darlin**, I'm a **Doctor in Statistics** from **Temuco**, in the South of 
 - 📫 How to reach me: **darlinsotov@gmail.cl**
 - ⚡ Fun fact **I drink one cup of coffee per day**
 
+## Skills
+### Languages
+![R](https://img.shields.io/badge/R-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![R](https://img.shields.io/badge/R-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/R-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlinsoto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
