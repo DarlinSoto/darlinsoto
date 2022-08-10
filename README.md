@@ -1,5 +1,5 @@
-### Hi, I'm Darlin 👋
-
+### Hi there 👋!
+I'm **Darlin**, I'm a **Doctor in Statistics** from **Temuco**, in the South of Chile. Currently, I'm working at Universidad de la Frontera, Chile,  developing statistical models to describe astronomical objects.
 <!--
 **DarlinSoto/darlinsoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
