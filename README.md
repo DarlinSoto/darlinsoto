@@ -21,6 +21,15 @@ I'm **Darlin**, I'm a **Doctor in Statistics** from **Temuco**, in the South of 
 <!--
 
 
+### Frameworks and libraries
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 ![R](https://img.shields.io/badge/R-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![R](https://img.shields.io/badge/R-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
