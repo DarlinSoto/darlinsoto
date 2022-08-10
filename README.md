@@ -6,6 +6,7 @@ I'm **Darlin**, I'm a **Doctor in Statistics** from **Temuco**, in the South of 
 - 📫 How to reach me: **darlinsotov@gmail.cl**
 - ⚡ Fun fact **I drink one cup of coffee per day**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlinsoto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Darlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=darlinsoto&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
