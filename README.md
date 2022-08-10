@@ -8,12 +8,18 @@ I'm **Darlin**, I'm a **Doctor in Statistics** from **Temuco**, in the South of 
 
 ## Skills
 ### Languages
-![R](https://img.shields.io/badge/R-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![R](https://img.shields.io/badge/R-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![R](https://img.shields.io/badge/R-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R]([https://img.shields.io/badge/R-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white))
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlinsoto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
 <!--
+
+
+![R](https://img.shields.io/badge/R-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/R-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 [![Darlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=darlinsoto&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 
