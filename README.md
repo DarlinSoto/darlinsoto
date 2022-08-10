@@ -8,7 +8,7 @@ I'm **Darlin**, I'm a **Doctor in Statistics** from **Temuco**, in the South of 
 
 ## Skills
 ### Languages
-!([https://img.shields.io/badge/R-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white))
+![R](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlinsoto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
