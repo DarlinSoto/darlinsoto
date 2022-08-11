@@ -1,5 +1,5 @@
 ### Hi there 👋!
-I'm **Darlin**, I'm a **Doctor in Statistics** from **Temuco**, in the South of Chile. Currently, I'm working at Universidad de la Frontera, Chile,  developing statistical models to describe astronomical objects.
+I'm **Darlin**, I'm a **Doctor in Statistics** from **Temuco**, in the south of Chile. Currently, I'm working at Universidad de la Frontera, Chile,  developing statistical models to describe astronomical objects.
 
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about **Statistical Models**, **Time series** and **Rstudio**
