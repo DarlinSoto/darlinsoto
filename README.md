@@ -4,7 +4,6 @@ I'm **Darlin**, I'm a **Doctor in Statistics** from **Temuco**, in the south of 
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about **Statistical Models**, **Time series** and **Rstudio**
 - 📫 How to reach me: **darlinsotov@gmail.cl**
-- ⚡ Fun fact **I drink one cup of coffee per day**
 
 ## Skills
 ### Languages
