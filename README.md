@@ -3,7 +3,7 @@ I'm **Darlin**, I'm a **Doctor of Statistics** from **Concepción**, in the sout
 
 - 🌱 I’m currently learning **Python** and **Astronomy**
 - 💬 Ask me about **Statistical Models**, **Time series** and **Rstudio**
-- 📫 How to reach me: **darlinsotov@gmail.cl**
+- 📫 How to reach me: **darlinsotov@gmail.com**
 
 ## Skills
 ### Languages
